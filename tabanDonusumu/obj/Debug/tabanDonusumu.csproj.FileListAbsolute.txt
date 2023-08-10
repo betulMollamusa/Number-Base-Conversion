@@ -1,0 +1,11 @@
+C:\Users\user\OneDrive\Masaüstü\tabanDonusumu\obj\Debug\tabanDonusumu.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\tabanDonusumu\obj\Debug\tabanDonusumu.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Masaüstü\tabanDonusumu\obj\Debug\tabanDonusumu.Form1.resources
+C:\Users\user\OneDrive\Masaüstü\tabanDonusumu\obj\Debug\tabanDonusumu.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\tabanDonusumu\obj\Debug\tabanDonusumu.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\tabanDonusumu\obj\Debug\tabanDonusumu.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\tabanDonusumu\bin\Debug\tabanDonusumu.exe.config
+C:\Users\user\OneDrive\Masaüstü\tabanDonusumu\bin\Debug\tabanDonusumu.exe
+C:\Users\user\OneDrive\Masaüstü\tabanDonusumu\bin\Debug\tabanDonusumu.pdb
+C:\Users\user\OneDrive\Masaüstü\tabanDonusumu\obj\Debug\tabanDonusumu.exe
+C:\Users\user\OneDrive\Masaüstü\tabanDonusumu\obj\Debug\tabanDonusumu.pdb
